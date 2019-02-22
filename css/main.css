@@ -12,6 +12,13 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
+nav ul li a, footer ul li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+}
+
 a {
     text-decoration: none;
     color: #999;
